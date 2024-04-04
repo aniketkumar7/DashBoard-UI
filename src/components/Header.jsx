@@ -9,7 +9,7 @@ function Header() {
       <div className="w-1/3 search border-[1px] rounded-md  px-3 flex items-center text-zinc-300">
         <IoIosSearch className="text-xl mr-2" />
         <input
-          className=" bg-transparent placeholder:text-zinc-300 focus:outline-none active:outline-none active:border-none font-thin font-sm text-zinc-500 outline-none border-none"
+          className=" bg-transparent placeholder:text-zinc-300 focus:outline-none active:outline-none focus:border-none active:border-none font-thin font-sm text-zinc-500 outline-none border-none"
           type="text"
           placeholder="Search"
         />
